@@ -1,0 +1,12 @@
+.ipynb_checkpoints
+.metals
+.vscode
+.metadata
+.idea
+.bsp
+.prettierignore
+null
+target
+.DS_Store
+DS_Store
+*.xcodeproj
